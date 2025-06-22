@@ -1,1 +1,0 @@
-# usporedivanje s stvarnim podacima, metrikama
