@@ -1,2 +1,2 @@
 # LSTM
-LSTM model to predict house prices in the US
+Average US house price prediction LSTM model
